@@ -1,7 +1,7 @@
 # HWIDchecker
 Check your HWID for free, quickly and safely!
 
-Check the "Releases" tab to download all files! (https://github.com/pathstack/HWIDchecker/releases)
+Check the "Releases" tab to download all files! (https://github.com/00bastie/HWIDchecker/releases)
 
 DOWNLOAD ch.py -> easy use!
 
