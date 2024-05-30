@@ -18,10 +18,10 @@ Discord: @00bastie
 
 **_Success_**
 
-![PNG_hwidscrsh_copyPNG](https://github.com/pathstack/HWIDchecker/assets/152643857/82acd89e-6915-42b1-83e8-1c0dbcff2f37)
+![scscupd4](https://github.com/00bastie/HWIDchecker/assets/152643857/dcc0c667-7f10-4729-85ae-e9c6c3379d6d)
 
 **_CMD and logo_**
 
-![PNG_cmd_rndesPNG](https://github.com/pathstack/HWIDchecker/assets/152643857/a55d89b8-53be-447d-8988-0c6a28cf5db5)
+![cmd_chcpc9](https://github.com/00bastie/HWIDchecker/assets/152643857/ee739cad-5689-4cb6-8154-b90aad045bd7)
 
 RLD: 2024.05.25
